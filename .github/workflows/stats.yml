@@ -1,3 +1,4 @@
+---
 name: User Stats
 
 on:
@@ -8,6 +9,8 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -16,7 +19,3 @@ jobs:
           image-file: images/userstats.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update user stats"
