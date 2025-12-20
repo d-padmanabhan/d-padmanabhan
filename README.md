@@ -31,6 +31,12 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" height="40" alt="dynamodb logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=databricks&theme=dark" height="40" alt="databricks logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="40" alt="kafka logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=confluent&theme=dark" height="40" alt="confluent logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudWatch.png" height="40" alt="cloudwatch logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudTrail.png" height="40" alt="cloudtrail logo" />
