@@ -3,11 +3,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/awslambda/FF9900" height="40" alt="aws lambda logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/48px-Amazon_Lambda_architecture_logo.svg.png" height="40" alt="aws lambda logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" height="40" alt="api gateway logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amazon_API_Gateway_logo.svg/48px-Amazon_API_Gateway_logo.svg.png" height="40" alt="api gateway logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="40" alt="dynamodb logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/48px-DynamoDB.png" height="40" alt="dynamodb logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
