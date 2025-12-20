@@ -1,7 +1,13 @@
-<h2 align="left">I Build With</h2>
+<h2 align="left">I build with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/awslambda/FF9900" height="40" alt="aws lambda logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" height="40" alt="api gateway logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="40" alt="dynamodb logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
