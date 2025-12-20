@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudTrail.png" height="40" alt="cloudtrail logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/datadog/white" height="40" alt="datadog logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
