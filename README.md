@@ -3,11 +3,23 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/48px-Amazon_Lambda_architecture_logo.svg.png" height="40" alt="aws lambda logo" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/Lambda.png" height="40" alt="lambda logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amazon_API_Gateway_logo.svg/48px-Amazon_API_Gateway_logo.svg.png" height="40" alt="api gateway logo" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/APIGateway.png" height="40" alt="api gateway logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/48px-DynamoDB.png" height="40" alt="dynamodb logo" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="40" alt="ec2 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="40" alt="s3 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="40" alt="rds logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" height="40" alt="dynamodb logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" height="40" alt="iam logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" height="40" alt="vpc logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/KeyManagementService.png" height="40" alt="kms logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
