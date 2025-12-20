@@ -15,6 +15,12 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" height="40" alt="vpc logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VPCLattice.png" height="40" alt="vpc lattice logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/TransitGateway.png" height="40" alt="transit gateway logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/CloudWAN.png" height="40" alt="cloud wan logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="40" alt="ec2 logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerService.png" height="40" alt="ecs logo" />
