@@ -73,6 +73,6 @@
 <details>
 <summary>View My GitHub Activity</summary>
 
-[![My GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+![My GitHub Stats](images/d-padmanabhan-github-stats.svg)
 
 </details>
