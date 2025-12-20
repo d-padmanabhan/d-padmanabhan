@@ -7,19 +7,27 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/APIGateway.png" height="40" alt="api gateway logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="40" alt="ec2 logo" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" height="40" alt="iam logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/KeyManagementService.png" height="40" alt="kms logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="40" alt="s3 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" height="40" alt="vpc logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="40" alt="ec2 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerService.png" height="40" alt="ecs logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticKubernetesService.png" height="40" alt="eks logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="40" alt="rds logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" height="40" alt="dynamodb logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" height="40" alt="iam logo" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudWatch.png" height="40" alt="cloudwatch logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" height="40" alt="vpc logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/KeyManagementService.png" height="40" alt="kms logo" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudTrail.png" height="40" alt="cloudtrail logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
