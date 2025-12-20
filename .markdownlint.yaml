@@ -9,6 +9,10 @@ MD029:
   style: one
 MD031: false
 MD032: false
+# Allow inline HTML (required for GitHub profile READMEs)
+MD033: false
 MD034: false
 MD040: false
 MD041: false
+# Allow images without alt text (spacer images)
+MD045: false
