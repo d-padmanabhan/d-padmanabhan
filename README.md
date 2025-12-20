@@ -1,4 +1,4 @@
-<h2 align="left">What I Build With</h2>
+<h2 align="left">I Build With</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
