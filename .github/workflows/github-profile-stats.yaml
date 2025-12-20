@@ -1,5 +1,5 @@
 ---
-name: User Stats
+name: GitHub Profile Stats
 
 on:
   schedule:
@@ -18,4 +18,4 @@ jobs:
         with:
           image-file: images/userstats.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
