@@ -1,4 +1,4 @@
-I build compute, networking, storage, databases, security, and Zero Trust platforms in the cloud.
+I build infrastructure that runs reliably, scales predictably, and lets teams focus on shipping.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
@@ -33,7 +33,11 @@ I build compute, networking, storage, databases, security, and Zero Trust platfo
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" height="40" alt="dynamodb logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/MachineLearning/Bedrock.png" height="40" alt="bedrock logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="databricks logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="snowflake logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="40" alt="kafka logo" />
   <img width="12" />
@@ -52,6 +56,8 @@ I build compute, networking, storage, databases, security, and Zero Trust platfo
   <img src="images/helm-logo.svg" height="40" alt="helm logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" alt="argocd logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/backstage/9BF0E1" height="40" alt="backstage logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
