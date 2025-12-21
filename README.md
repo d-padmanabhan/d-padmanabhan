@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo" />
+  <img src="https://skillicons.dev/icons?i=helm&theme=dark" height="40" alt="helm logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" alt="argocd logo" />
   <img width="12" />
