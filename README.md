@@ -1,4 +1,4 @@
-<h2 align="left">I build with</h2>
+I build compute, networking, storage, databases, security, and Zero Trust platforms in the cloud.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=helm&theme=dark" height="40" alt="helm logo" />
+  <img src="images/helm-logo.svg" height="40" alt="helm logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" alt="argocd logo" />
   <img width="12" />
@@ -61,11 +61,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
