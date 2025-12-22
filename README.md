@@ -33,7 +33,7 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" height="40" alt="dynamodb logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/MachineLearning/Bedrock.png" height="40" alt="bedrock logo" />
+  <img src="images/bedrock-logo.svg" height="40" alt="bedrock logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="databricks logo" />
   <img width="12" />
