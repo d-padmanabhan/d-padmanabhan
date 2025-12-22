@@ -5,6 +5,10 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="images/lambda-logo.svg" height="40" alt="lambda logo" />
   <img width="12" />
+  <img src="images/step-functions-logo.svg" height="40" alt="step functions logo" />
+  <img width="12" />
+  <img src="images/eventbridge-logo.svg" height="40" alt="eventbridge logo" />
+  <img width="12" />
   <img src="images/api-gateway-logo.svg" height="40" alt="api gateway logo" />
   <img width="12" />
   <img src="images/iam-logo.svg" height="40" alt="iam logo" />
