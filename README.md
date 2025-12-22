@@ -1,7 +1,7 @@
 I build infrastructure that runs reliably, scales predictably, and lets teams focus on shipping.
 
 <div align="left">
-  <img src="images/aws-logo.svg" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
   <img width="12" />
   <img src="images/lambda-logo.svg" height="40" alt="lambda logo" />
   <img width="12" />
@@ -49,7 +49,7 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40" alt="datadog logo" />
   <img width="12" />
-  <img src="images/cloudflare-logo.svg" height="40" alt="cloudflare logo" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
@@ -57,7 +57,7 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" alt="argocd logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/backstage/9BF0E1" height="40" alt="backstage logo" />
+  <img src="images/backstage-logo.svg" height="40" alt="backstage logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
