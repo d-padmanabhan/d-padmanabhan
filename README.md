@@ -35,11 +35,11 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="images/bedrock-logo.svg" height="40" alt="bedrock logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="databricks logo" />
+  <img src="images/databricks-logo.svg" height="40" alt="databricks logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="snowflake logo" />
+  <img src="images/snowflake-logo.svg" height="40" alt="snowflake logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="40" alt="kafka logo" />
+  <img src="images/kafka-logo.svg" height="40" alt="kafka logo" />
   <img width="12" />
   <img src="https://imply.io/wp-content/uploads/2023/04/logo-Confluent-case-studies.jpg" height="40" alt="confluent logo" />
   <img width="12" />
@@ -49,7 +49,7 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40" alt="datadog logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
+  <img src="images/cloudflare-logo.svg" height="40" alt="cloudflare logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
