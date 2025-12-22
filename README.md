@@ -17,6 +17,8 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="images/secrets-manager-logo.svg" height="40" alt="secrets manager logo" />
   <img width="12" />
+  <img src="images/okta-logo.svg" height="40" alt="okta logo" />
+  <img width="12" />
   <img src="images/s3-logo.svg" height="40" alt="s3 logo" />
   <img width="12" />
   <img src="images/vpc-logo.svg" height="40" alt="vpc logo" />
