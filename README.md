@@ -1,37 +1,37 @@
 I build infrastructure that runs reliably, scales predictably, and lets teams focus on shipping.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
+  <img src="images/aws-logo.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/Lambda.png" height="40" alt="lambda logo" />
+  <img src="images/lambda-logo.svg" height="40" alt="lambda logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/APIGateway.png" height="40" alt="api gateway logo" />
+  <img src="images/api-gateway-logo.svg" height="40" alt="api gateway logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" height="40" alt="iam logo" />
+  <img src="images/iam-logo.svg" height="40" alt="iam logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/KeyManagementService.png" height="40" alt="kms logo" />
+  <img src="images/kms-logo.svg" height="40" alt="kms logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/SecretsManager.png" height="40" alt="secrets manager logo" />
+  <img src="images/secrets-manager-logo.svg" height="40" alt="secrets manager logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="40" alt="s3 logo" />
+  <img src="images/s3-logo.svg" height="40" alt="s3 logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" height="40" alt="vpc logo" />
+  <img src="images/vpc-logo.svg" height="40" alt="vpc logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VPCLattice.png" height="40" alt="vpc lattice logo" />
+  <img src="images/vpc-lattice-logo.svg" height="40" alt="vpc lattice logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/TransitGateway.png" height="40" alt="transit gateway logo" />
+  <img src="images/transit-gateway-logo.svg" height="40" alt="transit gateway logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/CloudWAN.png" height="40" alt="cloud wan logo" />
+  <img src="images/cloud-wan-logo.svg" height="40" alt="cloud wan logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="40" alt="ec2 logo" />
+  <img src="images/ec2-logo.svg" height="40" alt="ec2 logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerService.png" height="40" alt="ecs logo" />
+  <img src="images/ecs-logo.svg" height="40" alt="ecs logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticKubernetesService.png" height="40" alt="eks logo" />
+  <img src="images/eks-logo.svg" height="40" alt="eks logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="40" alt="rds logo" />
+  <img src="images/rds-logo.svg" height="40" alt="rds logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" height="40" alt="dynamodb logo" />
+  <img src="images/dynamodb-logo.svg" height="40" alt="dynamodb logo" />
   <img width="12" />
   <img src="images/bedrock-logo.svg" height="40" alt="bedrock logo" />
   <img width="12" />
@@ -43,9 +43,9 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="https://imply.io/wp-content/uploads/2023/04/logo-Confluent-case-studies.jpg" height="40" alt="confluent logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudWatch.png" height="40" alt="cloudwatch logo" />
+  <img src="images/cloudwatch-logo.svg" height="40" alt="cloudwatch logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudTrail.png" height="40" alt="cloudtrail logo" />
+  <img src="images/cloudtrail-logo.svg" height="40" alt="cloudtrail logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40" alt="datadog logo" />
   <img width="12" />
