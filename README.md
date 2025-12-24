@@ -37,6 +37,12 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img width="12" />
   <img src="images/dynamodb-logo.svg" height="40" alt="dynamodb logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
   <img src="images/bedrock-logo.svg" height="40" alt="bedrock logo" />
   <img width="12" />
   <img src="images/databricks-logo.svg" height="40" alt="databricks logo" />
@@ -50,6 +56,8 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img src="images/cloudwatch-logo.svg" height="40" alt="cloudwatch logo" />
   <img width="12" />
   <img src="images/cloudtrail-logo.svg" height="40" alt="cloudtrail logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="40" alt="dynatrace logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40" alt="datadog logo" />
   <img width="12" />
