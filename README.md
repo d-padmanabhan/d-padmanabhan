@@ -98,8 +98,8 @@ I build infrastructure that runs reliably, scales predictably, and lets teams fo
   <img src="images/okta-logo.svg" height="40" alt="okta logo" />
 </div>
 
-<details>
-<summary>View My GitHub Activity</summary>
+<details open>
+<summary>My GitHub Activity</summary>
 
 ![My GitHub Stats](images/d-padmanabhan-github-stats.svg)
 
