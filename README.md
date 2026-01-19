@@ -1,4 +1,4 @@
-I build infrastructure that runs reliably, scales predictably, and lets teams focus on shipping.
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
