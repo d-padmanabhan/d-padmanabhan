@@ -100,6 +100,11 @@
 <details open>
 <summary>My GitHub Activity</summary>
 
-![My GitHub Stats](images/d-padmanabhan-github-stats.svg)
+<table>
+<tr>
+<td width="50%" valign="top"><img src="images/d-padmanabhan-github-stats.svg" alt="My GitHub Stats" /></td>
+<td width="50%" valign="top"><img src="images/d-padmanabhan-github-wrapped-stats.svg" alt="My GitHub Wrapped Metrics" /></td>
+</tr>
+</table>
 
 </details>
