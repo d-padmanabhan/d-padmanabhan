@@ -97,6 +97,11 @@
   <img src="images/okta-logo.svg" height="40" alt="okta logo" />
 </div>
 
+## Links
+
+- [Engineering Hub - Quick Links](https://tools.techfueled.dev/) - Curated engineering links and
+  utilities I use
+
 <details open>
 <summary>My GitHub Activity</summary>
 
