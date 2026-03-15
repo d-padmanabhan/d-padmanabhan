@@ -99,9 +99,6 @@
 
 ## Links
 
-- [Engineering Hub - Quick Links](https://tools.techfueled.dev/) - Curated engineering links and
-  utilities I use
-
 <details open>
 <summary>My GitHub Activity</summary>
 
@@ -113,3 +110,6 @@
 </table>
 
 </details>
+
+- [Engineering Hub - Quick Links](https://tools.techfueled.dev/) - Curated engineering links and
+  utilities I use
