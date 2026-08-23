@@ -111,5 +111,5 @@
 
 </details>
 
-- [Engineering Hub - Quick Links](https://tools.techfueled.dev/) - Curated engineering links and
+- [Engineering Hub - Quick Links](https://hub.techfueled.dev/) - Curated engineering links and
   utilities I use
