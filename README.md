@@ -2,6 +2,12 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="40" alt="microsoft azure logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="40" alt="google cloud logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
+  <img width="12" />
   <img src="images/lambda-logo.svg" height="40" alt="lambda logo" />
   <img width="12" />
   <img src="images/step-functions-logo.svg" height="40" alt="step functions logo" />
@@ -59,8 +65,6 @@
   <img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="40" alt="dynatrace logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40" alt="datadog logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
